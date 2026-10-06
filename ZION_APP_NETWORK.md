@@ -1,16 +1,17 @@
-# 🌐 Part of the Zion AI App Network
+# 🕸️ Zion AI App Network — Interlinks
 
-**Contract Clause Guardian** — AI contract clause risk review — flag risky clauses, missing terms and renewal traps before signature.
+Part of the **Zion AI App Network** — 440+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
 
-- 🖥️ Live app: https://ziontechgroup.com/contract-clause-guardian/
-- 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
-- 🧭 Free AI Discovery (always online, always free — results emailed instantly to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
-- 💻 GitHub hub: https://github.com/Zion-support/zion-network
+- 🚀 **This app (live):** https://ziontechgroup.com/contract-clause-guardian/
+- 🗂️ **Network hub (GitHub):** https://github.com/Zion-support/zion-app-network
+- 🌐 **Apps directory:** https://ziontechgroup.com/apps/
+- 💎 **Free AI Discovery (instant results to you + commercial@ziontechgroup.com):** https://ziontechgroup.com/discovery/
+- 📦 **Batch 103 — Legal, Finance & Onboarding AI:** https://ziontechgroup.com/apps/october-2026-batch103.html
 
-## 🔗 Related apps in the network (Batch 90 — Legal & Compliance AI)
-- [Contract Clause Guardian](https://github.com/Zion-support/contract-clause-guardian) — https://ziontechgroup.com/contract-clause-guardian/
-- [Compliance Calendar AI](https://github.com/Zion-support/compliance-calendar-ai) — https://ziontechgroup.com/compliance-calendar-ai/
-- [Legal Intake Triage](https://github.com/Zion-support/legal-intake-triage) — https://ziontechgroup.com/legal-intake-triage/
+## Related apps
+- Vendor Risk Sentinel → https://ziontechgroup.com/vendor-risk-sentinel/
+- Invoice Dispute Resolver → https://ziontechgroup.com/invoice-dispute-resolver/
+- Onboarding Flow Optimizer → https://ziontechgroup.com/onboarding-flow-optimizer/
 
----
-© 2026 Zion Tech Group
+## Commercial
+Questions or a tailored rollout? commercial@ziontechgroup.com · https://ziontechgroup.com/contact/
